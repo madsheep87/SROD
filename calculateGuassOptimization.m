@@ -1,3 +1,4 @@
+% Li X, Lu H, Zhang L, et al. Saliency detection via dense and sparse reconstruction.In IEEE Conference on Computer Vision and Pattern Recognition, 2013: 2976-2983
 function guassOptimizeResult = calculateGuassOptimization(initialResult,guassSigmaRatio,r,c)
 %% Refine the saliency map by the object-biased Gaussian model.
 %% Input
