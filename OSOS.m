@@ -29,7 +29,7 @@ end
 samp_Data = datasample(feature_In, sample_size ,'Replace', true);% random sampling
 t0 = clock;
 D = zeros(1,size_w*size_h);
-for i=1:size_w*size_h
+parfor i=1:size_w*size_h
     D(i) = min(pdist2(feature_In(i,:),samp_Data,'minkowski',1));
 end
 fixationMap = reshape(D,size_w,size_h);
