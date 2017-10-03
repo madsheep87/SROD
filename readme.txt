@@ -1,5 +1,5 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% This code is for [1], and can only be used for non-comercial purpose. If
+% This code is for [1], and can only be used for non-commercial purpose. If
 % you use our code, please cite [1].
 % 
 % Code Author: He Tang
